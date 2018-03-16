@@ -1,2 +1,2 @@
-# Conferencia-4i
+# Conferencia "Industria 4.0"
 Conferencia "Industria 4.0"
